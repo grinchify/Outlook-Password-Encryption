@@ -15,7 +15,7 @@ To use the Outlook Password Encryption Code in your project, follow these steps:
 
 2. Navigate to the repository directory.
    ```
-cd outlook-password-encryption
-```
+   cd outlook-password-encryption
+   ```
 
 3. Call the function **encryption_handler** with the parameters being your password, outlook encryption key and the outlook session assigned random number. The encryption key and the session assigned random number can be found in the HTML of the Outlook Signup Page.
