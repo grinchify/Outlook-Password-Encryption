@@ -14,7 +14,7 @@ To use the Outlook Password Encryption Code in your project, follow these steps:
    git clone https://github.com/your-username/outlook-password-encryption.git
 
 2. Navigate to the repository directory.
-```
+   ```
 cd outlook-password-encryption
 ```
 
